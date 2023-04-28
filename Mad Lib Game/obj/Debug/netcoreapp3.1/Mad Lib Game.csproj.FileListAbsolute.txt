@@ -1,0 +1,12 @@
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\obj\Debug\netcoreapp3.1\Mad Lib Game.AssemblyInfoInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\obj\Debug\netcoreapp3.1\Mad Lib Game.AssemblyInfo.cs
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\obj\Debug\netcoreapp3.1\Mad Lib Game.csproj.CoreCompileInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\bin\Debug\netcoreapp3.1\Mad Lib Game.exe
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\bin\Debug\netcoreapp3.1\Mad Lib Game.deps.json
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\bin\Debug\netcoreapp3.1\Mad Lib Game.runtimeconfig.json
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\bin\Debug\netcoreapp3.1\Mad Lib Game.runtimeconfig.dev.json
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\bin\Debug\netcoreapp3.1\Mad Lib Game.dll
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\bin\Debug\netcoreapp3.1\Mad Lib Game.pdb
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\obj\Debug\netcoreapp3.1\Mad Lib Game.dll
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\obj\Debug\netcoreapp3.1\Mad Lib Game.pdb
+D:\Dayton\Personal Projects\C# Projects\Mad Lib Game\obj\Debug\netcoreapp3.1\Mad Lib Game.genruntimeconfig.cache
